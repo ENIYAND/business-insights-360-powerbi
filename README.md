@@ -55,7 +55,7 @@ The following tools and technologies were used:
 This dashboard leverages several advanced Power BI features:
 
 - Data transformation using **Power Query**
-- **Snowflake data modeling** for optimized relationships
+- **Star schema data modeling** for optimized relationships
 - Creation of **business measures using DAX**
 - **Dynamic titles** responding to slicer selections
 - **Conditional formatting** for KPI indicators
