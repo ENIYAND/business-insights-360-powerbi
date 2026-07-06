@@ -142,7 +142,7 @@ This dataset contains **cost and pricing related data.**
 
 # 🗂️ Data Model
 
-The Power BI model follows a **Snowflake Schema**, ensuring efficient querying and optimized performance.
+The Power BI model follows a **Star Schema**, ensuring efficient querying and optimized performance.
 
 The model connects:
 
